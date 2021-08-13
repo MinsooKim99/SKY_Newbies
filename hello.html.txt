@@ -10,3 +10,7 @@ console.log("Hello world!");
 </body>
 </html>
 난 이거 안배웠어 몰라아아
+
+나도 좀 알려줘
+
+이 기만자들~~
